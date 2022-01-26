@@ -1,16 +1,15 @@
-### Hi there 👋
+### HOLA MUNDO! (O GENTE XD) 👋
 
-<!--
-**Forsa12AVW/Forsa12AVW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Forsa12AVW/Forsa12AVW** is a ✨ _Especial_ ✨ repositorio de `README.md` (this file) Aparecera en Mi perfil de GitHub.
 
-Here are some ideas to get you started:
+Sobre mi Daniel Ali Ton Morales:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente no trabajo si no que estudio una doble licenciatura.
+- 🌱 Actualmente estoy aprendiendo Desarrollo de aplicaciones Web.
+- 👯 Busco colaborar con mis compañeros y amigos.
+- 🤔 Busco ayuda en mis profesores y amigos.
+- 💬 Si me ves, preguntame ¿como estuvo mi dia? (te entretendre)
+- 📫 Para contactar conmigo, por Whatsapp
+- 😄 Alias: ALI
+- ⚡ Me divierten los videojuegos y el gimnacio. 
+
